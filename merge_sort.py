@@ -47,6 +47,6 @@ merge_sort(arr)
 print("Array after merge sort: ", arr)
 
 # Time Complexity
-## Best, Average, Worst => O(nlogn)
+## Best, Average, Worst => O(n log n)
 
 # Space Complexity => O(n)
